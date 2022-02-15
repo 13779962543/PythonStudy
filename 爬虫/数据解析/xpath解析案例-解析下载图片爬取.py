@@ -7,10 +7,6 @@ if __name__=="__main__":
 
     url='https://pic.netbian.com/4kmeinv/'
 
-    # 循环输出页数
-
-
-    print(url)
     headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43'
     }
